@@ -1,9 +1,7 @@
-/* Name: Kristen Balisi   341426344
- * Date: 29/05/2023
- * Program Name: Space Shooter Game
- * Program Description: This Space Shooter Game is a multi-threaded application where 
+/* Name: Space Shooter Game
+ * Description: This Space Shooter Game is a multi-threaded application where 
  * the player controls a spaceship that must shoot an alien spaceship and avoid alien 
- * missiles. The user can control the player spaceship’s vertical movement using arrow keys  
+ * missiles. The user can control the player spaceshipâ€™s vertical movement using arrow keys  
  * and fire missiles using the space bar. The alien is computer-controlled, with randomized 
  * movement and firing of missiles. This program incorporates collision detection to
  * track missile hits and updates the on-screen player and alien scores accordingly.
